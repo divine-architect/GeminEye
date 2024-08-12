@@ -44,3 +44,5 @@ Once the connections are done, edit your `.bashrc` file to get `button_monitor.p
 Licensed under MIT License.
 
 ## Gallery
+![pic1](https://raw.githubusercontent.com/divine-architect/GeminEye/main/img/IMG_20240812_195649630-removebg-preview.png)
+![pic2](https://raw.githubusercontent.com/divine-architect/GeminEye/main/img/IMG_20240813_004103265_MF_PORTRAIT%20(1).png)
