@@ -1,0 +1,13 @@
+google-generativeai
+pandas
+dotenv
+speech_recognition
+gtts
+pygame
+newspaper
+duckduckgo_search
+twilio
+opencv-python
+requests
+geocoder
+praw
