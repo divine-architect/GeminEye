@@ -45,5 +45,6 @@ Licensed under MIT License.
 
 ## Gallery
 ![pic1](https://raw.githubusercontent.com/divine-architect/GeminEye/main/img/IMG_20240812_195649630-removebg-preview.png)
-![pic2](https://raw.githubusercontent.com/divine-architect/GeminEye/main/img/IMG_20240813_004103265_MF_PORTRAIT%20(1).png)
-![youtube]()
+![pic2](https://raw.githubusercontent.com/divine-architect/GeminEye/main/img/IMG_20240813_004103265_MF_PORTRAIT%20(1).png)<br><br>
+YouTube:<br>
+[![alt text](https://img.youtube.com/vi/HnDYFkeUPT0/0.jpg)](https://www.youtube.com/watch?v=HnDYFkeUPT0)
