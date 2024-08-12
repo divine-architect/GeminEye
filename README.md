@@ -1,5 +1,8 @@
+![logo](https://raw.githubusercontent.com/divine-architect/GeminEye/main/img/Screenshot_from_2024-07-06_22-23-49-removebg-preview.png)
+
 # GeminEye
 Handheld device for visually impaired users powered by Google Gemini | Submission for the Gemini API competition
+
 
 ## About
 Since the dawn of time mankind has never once stopped innovating, the invention of the wheel, the discovery of fire, writing systems, all the way to the space race, and AI.
